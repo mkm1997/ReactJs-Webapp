@@ -1,0 +1,16 @@
+.App-header {
+    background-color: #282c34;
+    min-height: 70px;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.home{
+    background-color: #282c34;
+}
